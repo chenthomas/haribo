@@ -4,8 +4,8 @@
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/roine/jquery-haribo/master/dist/jquery.haribo.min.js
-[max]: https://raw.github.com/roine/jquery-haribo/master/dist/jquery.haribo.js
+[min]: https://raw.github.com/thomaschen5/haribo/master/dist/jquery.haribo.min.js
+[max]: https://raw.github.com/thomaschen5/haribo/master/dist/jquery.haribo.js
 
 In your web page:
 
