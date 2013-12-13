@@ -1,7 +1,5 @@
 # Haribo by Jonathan & Thomas
 
-nothing
-
 ## Getting Started
 
 Download the [production version][min] or the [development version][max].
